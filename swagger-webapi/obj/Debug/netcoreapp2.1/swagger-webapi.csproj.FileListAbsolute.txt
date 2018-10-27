@@ -1,0 +1,14 @@
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\bin\Debug\netcoreapp2.1\swagger-webapi.deps.json
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\bin\Debug\netcoreapp2.1\swagger-webapi.runtimeconfig.json
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\bin\Debug\netcoreapp2.1\swagger-webapi.runtimeconfig.dev.json
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\bin\Debug\netcoreapp2.1\swagger-webapi.dll
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\bin\Debug\netcoreapp2.1\swagger-webapi.pdb
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.csproj.CoreCompileInputs.cache
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.RazorAssemblyInfo.cache
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.RazorAssemblyInfo.cs
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.AssemblyInfoInputs.cache
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.AssemblyInfo.cs
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.RazorTargetAssemblyInfo.cache
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.dll
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.pdb
+C:\Users\omismail\Documents\Visual Studio 2017\Projects\swagger-webapi\swagger-webapi\obj\Debug\netcoreapp2.1\swagger-webapi.csprojAssemblyReference.cache
